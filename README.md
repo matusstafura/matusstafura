@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+<!--
 <p>Welcome to my page! </br> I'm Matus, Fullstack developer.</p>
 
-<!--
 ![](https://visitor-badge.glitch.me/badge?page_id=matusstafura.matusstafura)
 
 
