@@ -7,7 +7,7 @@
 ---
 
 ### 🏆 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matusstafura&show_icons=true&theme=catpuccin-mocha)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matusstafura&theme=prussian&show_icons=true&hide_border=false&count_private=true)
 
 ---
 
